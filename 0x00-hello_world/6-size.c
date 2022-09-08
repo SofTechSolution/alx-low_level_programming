@@ -6,7 +6,7 @@
 */
 int main(void)
 {
-	int 0;
+	int a;
 	long int b;
 	long long int c;
 	char d;
