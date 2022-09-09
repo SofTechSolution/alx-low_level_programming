@@ -23,7 +23,7 @@ for (digit2 = digit1 + 1; digit2 < 10; digit2++)
 		putchar ((digit2 % 10) + '0');
 		putchar ((digit3 % 10) + '0');
 
-		iif (digit1 == 7 && digit2 == 8 && digit3 == 9)
+		if (digit1 == 7 && digit2 == 8 && digit3 == 9)
 			continue;
 
 		putchar(',');
