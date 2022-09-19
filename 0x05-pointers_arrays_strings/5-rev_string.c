@@ -4,7 +4,7 @@
 *@s: parameter s
 */
 
-void rev_string(chhar *s)
+void rev_string(char *s)
 {
 	"sam" -> "mas"
 	char tmp;
