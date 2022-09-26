@@ -2,12 +2,11 @@
 #define MAIN_H
 
 /**
-*File: main.h
+
 *void prototypes()
-*int prototypes
+*int prototypes()
 */
 
-#include <stddef.h>
 
 int _putchar(char);
 char *_memset(char *s, char b, unsigned int n);
