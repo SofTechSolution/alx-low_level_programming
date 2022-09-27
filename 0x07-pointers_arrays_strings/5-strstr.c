@@ -27,7 +27,7 @@ while (needle[j] != '\0')
 if (haystack[x] == needle[j])
 x++, j++;
 else
-break
+	break;
 }
 if (needle[j] == '\0')
 {
